@@ -1,7 +1,3 @@
-# spmip-eof-analysis
-SPMIP EOF Analysis
-Below is a **draft README.md** file for your GitHub repository. It includes sections commonly found in open-source or academic projects: Overview, Features, Requirements, Installation, Usage, Contributing, and License. You can adapt it further to match your preferred style or workflow.
-
 ---
 
 # SPMIP EOF Analysis
@@ -107,11 +103,21 @@ Contributions are welcome! If you find a bug or have a feature request:
 
 [MIT License](LICENSE).  
 See the `LICENSE` file for details.
+## References
 
+- **EOF Analysis in Python**: For a comprehensive Python package for EOF analysis, consider the `eofs` package by Andrew Dawson. It offers a robust implementation suitable for large datasets and includes metadata handling.
+
+  Repository: [https://github.com/ajdawson/eofs](https://github.com/ajdawson/eofs)
+
+- **EOFs Cookbook**: The Project Pythia EOFs Cookbook provides tutorials and examples on EOF analysis applications in climate data.
+
+  Repository: [https://github.com/ProjectPythia/eofs-cookbook](https://github.com/ProjectPythia/eofs-cookbook)
+  
+-  [Taylor Diagrams](https://gist.github.com/ycopin/3342888)
 ---
+## Acknowledgments
 
-## Citation
-1. [Taylor Diagrams](https://gist.github.com/ycopin/3342888)
+This project was inspired by existing EOF analysis tools and methodologies. Special thanks to the contributors of the `eofs` package and the EOFs Cookbook for their valuable resources. 
 
 ### Contact
 
