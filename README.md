@@ -85,9 +85,9 @@ spmip-eof-analysis/
 ├── Figures/
 │   └── ... (generated plots)
 ├── scripts/
-│   ├── eof_calculations.py
-│   ├── plot_correlation.py
-│   ├── plot_distance.py
+│   ├── eof_utilities.py
+│   ├── plot_util.py
+│   ├── Taylordiagram.py
 │   ├── taylor_diagram.py
 │   └── ...
 ├── README.md
@@ -105,10 +105,13 @@ Contributions are welcome! If you find a bug or have a feature request:
 
 ## License
 
-[MIT License](LICENSE) or [Apache 2.0](LICENSE) (choose one).  
+[MIT License](LICENSE).  
 See the `LICENSE` file for details.
 
 ---
+
+## Citation
+1. [Taylor Diagrams](https://gist.github.com/ycopin/3342888)
 
 ### Contact
 
